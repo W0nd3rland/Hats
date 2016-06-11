@@ -1,1 +1,4 @@
 # Hats
+
+Hello, fellow associates.
+
